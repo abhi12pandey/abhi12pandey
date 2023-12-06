@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abhi12pandey
-- 👀 I’m interested in ...WEB ALONG WITH CP
+- 👀 I’m interested in ...WEB DEVELOPMENT ALONG WITH CP
 
-- 💞️ I’m looking to collaborate on ...OPEN SOURCE PROJECT LIKE GSOC AND HACKATHON
-- 📫 How to reach me
+- 💞️ OPEN SOURCE PROJECT LIKE GSOC (ESPECIALLY INCLINED TOWARDS OPEN SOURCE CONTRIBUTION) 
+- 📫 How to reach me 
 - MAIL ap6327460@gmail.com
 
 <!---
