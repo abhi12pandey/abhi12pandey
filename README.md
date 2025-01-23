@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @abhi12pandey
+- 👋 Hi, I’m Abhishek kumar
+- <h1>currently expolring javascript</h1>
 - 👀 I’m interested in ...WEB DEVELOPMENT ALONG WITH CP
 
 - 💞️ OPEN SOURCE PROJECT LIKE GSOC (ESPECIALLY INCLINED TOWARDS OPEN SOURCE CONTRIBUTION). 
